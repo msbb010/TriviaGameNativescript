@@ -1,5 +1,4 @@
 {
-    
     "compilerOptions": {
         "module": "commonjs",
         "target": "es5",
@@ -12,7 +11,7 @@
             "dom",
             "es2015.iterable"
         ],
-        "baseUrl": "src",
+        "baseUrl": ".",
         "paths": {
             "~/*": [
                 "src/*"
